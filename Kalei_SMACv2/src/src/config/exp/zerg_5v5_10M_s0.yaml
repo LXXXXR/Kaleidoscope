@@ -1,0 +1,12 @@
+exp_name: zerg_5v5
+run_name: zerg_5v5_10M_s0
+
+seed: 0
+
+env_args:
+  seed: 0
+  capability_config:
+    n_units: 5
+    n_enemies: 5
+
+t_max: 10_050_000

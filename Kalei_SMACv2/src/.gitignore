@@ -1,0 +1,22 @@
+3rdparty/
+__MACOSX/
+__pycache__/
+results/
+*.png
+*.zip
+.DS_Store
+
+
+# runtime files
+temp/
+work_dirs
+.vscode/
+temp.*
+wandb
+
+# debug codes
+configs/eval/
+configs/debug.yaml
+configs/debug/
+test/
+test.py

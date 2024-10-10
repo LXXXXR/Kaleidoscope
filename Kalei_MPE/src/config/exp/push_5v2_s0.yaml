@@ -1,0 +1,9 @@
+exp_name: push_5v2
+run_name: push_5v2_s0
+
+seed: 0
+
+env_args:
+  time_limit: 25
+  key: "mpe:SimplePush5v2_closest-v0"
+  pretrained_wrapper: "PretrainedPush_5v2"
