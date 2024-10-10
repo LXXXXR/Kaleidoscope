@@ -20,8 +20,7 @@ The code is implement based on the following open-source projects:
 If you use this code in your research or find it helpful, please consider citing our paper:
 ```
 @article{li2024kaleidoscope,
-  title={Kaleidoscope: Learnable Masks for Heterogeneous
-Multi-agent Reinforcement Learning},
+  title={Kaleidoscope: Learnable Masks for Heterogeneous Multi-agent Reinforcement Learning},
   author={Li, Xinran and Pan, Ling and Zhang, Jun},
   booktitle={accepted by the Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS)},
   year={2024}
